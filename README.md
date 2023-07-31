@@ -1,11 +1,11 @@
 # Canil
 Projeto feito com Ts, mustache.
 
-### Pré-requisitos globais:
+# Pré-requisitos globais:
 'npm i -g nodemon typescript ts-node'
 
-### instalaçâo
+# instalaçâo
 'npm install'
 
-### para rodar o projeto
+# para rodar o projeto
 'npm run start'
